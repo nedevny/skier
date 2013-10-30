@@ -1,0 +1,24 @@
+C:\Users\Ned\Desktop\ScoobyDoo\Skier\MainClass\bin\Debug\MainClass.exe.config
+C:\Users\Georgi\Desktop\Ski Game\MainClass\bin\Debug\MainClass.exe.config
+C:\Users\Ned\Desktop\ScoobyDoo\Skier\MainClass\obj\Debug\MainClass.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\Ski Game\MainClass\obj\Debug\MainClass.csprojResolveAssemblyReference.cache
+C:\Users\Ned\Desktop\ScoobyDoo\Skier\MainClass\bin\Debug\MainClass.exe
+C:\Users\Ned\Desktop\ScoobyDoo\Skier\MainClass\bin\Debug\MainClass.pdb
+C:\Users\Ned\Desktop\ScoobyDoo\Skier\MainClass\obj\Debug\MainClass.exe
+C:\Users\Ned\Desktop\ScoobyDoo\Skier\MainClass\obj\Debug\MainClass.pdb
+E:\ScoobyDoo\MainClass\bin\Debug\MainClass.exe.config
+E:\ScoobyDoo\MainClass\bin\Debug\MainClass.exe
+E:\ScoobyDoo\MainClass\bin\Debug\MainClass.pdb
+E:\ScoobyDoo\MainClass\obj\Debug\MainClass.csprojResolveAssemblyReference.cache
+E:\ScoobyDoo\MainClass\obj\Debug\MainClass.exe
+E:\ScoobyDoo\MainClass\obj\Debug\MainClass.pdb
+C:\Users\Georgi\Desktop\Ski Game\MainClass\obj\Debug\MainClass.exe
+C:\Users\Georgi\Desktop\Ski Game\MainClass\obj\Debug\MainClass.pdb
+C:\Users\Georgi\Desktop\Ski Game\MainClass\bin\Debug\MainClass.exe
+C:\Users\Georgi\Desktop\Ski Game\MainClass\bin\Debug\MainClass.pdb
+C:\Users\Nedko\Desktop\OOP Project\skier\MainClass\bin\Debug\MainClass.exe.config
+C:\Users\Nedko\Desktop\OOP Project\skier\MainClass\obj\Debug\MainClass.exe
+C:\Users\Nedko\Desktop\OOP Project\skier\MainClass\obj\Debug\MainClass.pdb
+C:\Users\Nedko\Desktop\OOP Project\skier\MainClass\bin\Debug\MainClass.exe
+C:\Users\Nedko\Desktop\OOP Project\skier\MainClass\bin\Debug\MainClass.pdb
+C:\Users\Nedko\Desktop\OOP Project\skier\MainClass\obj\Debug\MainClass.csprojResolveAssemblyReference.cache
